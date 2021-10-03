@@ -1,0 +1,8 @@
+C:\Users\thiag\source\repos\ApiCatalogoJogos\ApiCatalogoJogos\obj\Debug\net5.0\ApiCatalogoJogos.csproj.AssemblyReference.cache
+C:\Users\thiag\source\repos\ApiCatalogoJogos\ApiCatalogoJogos\obj\Debug\net5.0\ApiCatalogoJogos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thiag\source\repos\ApiCatalogoJogos\ApiCatalogoJogos\obj\Debug\net5.0\ApiCatalogoJogos.AssemblyInfoInputs.cache
+C:\Users\thiag\source\repos\ApiCatalogoJogos\ApiCatalogoJogos\obj\Debug\net5.0\ApiCatalogoJogos.AssemblyInfo.cs
+C:\Users\thiag\source\repos\ApiCatalogoJogos\ApiCatalogoJogos\obj\Debug\net5.0\ApiCatalogoJogos.csproj.CoreCompileInputs.cache
+C:\Users\thiag\source\repos\ApiCatalogoJogos\ApiCatalogoJogos\obj\Debug\net5.0\ApiCatalogoJogos.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\thiag\source\repos\ApiCatalogoJogos\ApiCatalogoJogos\obj\Debug\net5.0\ApiCatalogoJogos.RazorAssemblyInfo.cache
+C:\Users\thiag\source\repos\ApiCatalogoJogos\ApiCatalogoJogos\obj\Debug\net5.0\ApiCatalogoJogos.RazorAssemblyInfo.cs
